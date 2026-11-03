@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-*(Update this section based on your exact project stack)*
+
 
 - **Frontend:** [Insert Frontend Tech, e.g., Flutter / React / React Native]
 - **Backend:** [Insert Backend Tech, e.g., Node.js / Express / Firebase / Python]
